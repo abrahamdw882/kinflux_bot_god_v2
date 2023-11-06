@@ -7,13 +7,13 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['254768005355', 'kinflux bot', true],
-  ['+254110377776', 'zamzack254', true], 
+  ['233533763772', 'Abraham Dwamena', true],
+  ['+233268374753', 'Abraham Dwamena', true], 
   [''] 
 ] //Number of owners
 
-global.mods = ['22589747147','254110377776','254765777423'] 
-global.prems = ['22589747147', '254110377776', '254740654689']
+global.mods = ['233533763772','233268374753','233533763772'] 
+global.prems = ['233533763772', '233268374753', '233533763772']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -49,20 +49,20 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.botname = 'kinflux bot god'
 global.premium = 'true'
-global.packname = 'kinflux ┃ᴮᴼᵀ' 
-global.author = 'kinflux digital' 
-global.igfg = '▢ Follow on Instagram\nhttps://chat.whatsapp.com/GFMVLmJBvOS2DM9uSlAmCO\n' 
-global.dygp = 'https://chat.whatsapp.com/GFMVLmJBvOS2DM9uSlAmCO'
-global.fgsc = 'https://github.com/diggilly/kinflux-bot' 
-global.fgyt = 'https://chat.whatsapp.com/GFMVLmJBvOS2DM9uSlAmCO'
+global.packname = 'AB CHRISTAIN BOT' 
+global.author = 'ABRAHAM DWAMENA' 
+global.igfg = '▢ Follow on our Community\nhttps://chat.whatsapp.com/Go8vNS0mv6UIWfH55zvEc6\n' 
+global.dygp = 'https://chat.whatsapp.com/Go8vNS0mv6UIWfH55zvEc6'
+global.fgsc = 'wa.me//233533763772' 
+global.fgyt = 'https://chat.whatsapp.com/Go8vNS0mv6UIWfH55zvEc6'
 global.fgpyp = ''
-global.fglog = 'https://raw.githubusercontent.com/diggilly/kinflux-bot/main/Guru.jpg' 
+global.fglog = 'https://raw.githubusercontent.com/abrahamdw882/kinflux-bot/main/Guru.jpg' 
 
 
-global.wait = '*⌛ _kinflux bot loading..._*\n*▰▰▰▱▱▱▱▱*'
+global.wait = '*⌛ _Christaiam bot loading..._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
-global.done = '✅'
+global.done = '👏'
 global.error = '❌' 
 global.xmoji = '🔥' 
 
