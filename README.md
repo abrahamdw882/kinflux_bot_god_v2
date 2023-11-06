@@ -45,13 +45,13 @@ kinflux bot God v2
 
 ## ```fork the repo first Here```
            
-<a href='https://github.com/diggilly/kinflux_bot_god_v2/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/abrahamdw882/kinflux_bot_god_v2/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
   
 
 ## ```Scan the QR and upload guru.data.json to your fork(will recieve it on your bot number after scanning)```
 
-<a href='https://replit.com/@digildigil/Kinflux-bot-QR-CODE-GENERATOR?v=1' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://replit.com/@diggilly/Kinflux-bot-QR-CODE-GENERATOR?v=1' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
   
 
@@ -105,18 +105,18 @@ kinflux bot God v2
 
  ## 🤩 Support
 
-SUPPORT GROUP: <a href="https://chat.whatsapp.com/BLjStbNJvG2H7Z3hlDmv28"><img alt="WhatsApp" src="https://camo.githubusercontent.com/2157131829ac512183ee8f8b6c6f803688a4cc66a2e686602844e80478401a7c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6f696e2047726f75702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465"/></a>
+SUPPORT GROUP: <a href="https://chat.whatsapp.com/EKeNBKlZPoICcHCJ227P61"><img alt="WhatsApp" src="https://camo.githubusercontent.com/2157131829ac512183ee8f8b6c6f803688a4cc66a2e686602844e80478401a7c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6f696e2047726f75702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465"/></a>
 
 
 ### 📮 Terms & Conditions
-1. This repo is not for sale trade.
+1. This repo is not for sale trade.https://wa.me/254110377776?text=Hello%20*master%20Abraham254*%20sir
 2. Don't forget give `star` this repo 🌟
 3. This script is not made for `illegal` purpose.
-4. If you have problem, [`Tap Here`](https://wa.me/254110077535?text=Hello%20*master%20zamzack254*%20sir...%20I%20need%20some%20help%20in%20kinflux_bot_god%20v2...%20🥲) for help
+4. If you have problem, [`Tap Here`]([https://wa.me/233268374753?text=Hello%20*master%20ABRAHAM233*%20sir...%20I%20need%20some%20help%20in%20kinflux_bot_god%20v2...%20🥲](https://wa.me/233268374753?text=Hello%20Abraham254%20sir...%20I%20need%20some%20help%20in%20Christain_BOT%20v2)) for help
 
 ---------
-
+https://wa.me/254110377776?text=Hello%20*master%20Abraham254*%20sir
 ## ```Thanks to ✨```
-* [`kinflux digital`](https://wa.me/254110377776?text=Hello%20*master%20zamzack254*%20sir..) - | ✅ For the Script stability
+* [`kinflux digital`](https://wa.me/233268374753?text=Hello%20*master%20Abraham254*%20sir..) - | ✅ For the Script stability
 * [`diggilly`](https://github.com/diggilly) - | ✅ For README.MD CODE
 * [`AdirajShing`](https://github.com/adiwajshing/Baileys) - | ✅ For a huge library
