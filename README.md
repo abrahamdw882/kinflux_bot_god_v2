@@ -7,7 +7,7 @@
 
 > **Warning**: This script is not for trading with permission. 
 
-<h1 align="center">kinflux bot God v2 - MultiDevice</h1>
+<h1 align="center"> A Christain BOT - MultiDevice</h1>
 <p align="center">
   <a href="https://github.com/abrahamdw882"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=kinflux+bot+God+v2+MultiDevice;The+stable+version+whatsApp+bot;Developed+by+ABRAHAM~DWAMENA;Give+star+and+forks+this+Repo+🌟" alt="AnyaReadme">
 </p>
@@ -16,7 +16,7 @@
  <a href="#"><img title="AB_CHRISTAIN_BOT" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/diggilly"><img title="Author" src="https://img.shields.io/badge/AUTHOR-kinflux digital-green.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/abrahamdw882"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ABRAHAM DWAMENA-green.svg?style=for-the-badge&logo=github"></a>
 
 ---------
 ## AB-CHRISTAIN-BOT is a powerfull Multi Device whatsapp bot. ⚡️ 😇SPEED-Fast Responses: 300 feutures and many more
@@ -30,12 +30,12 @@ kinflux bot God v2
 ---------
 
 ## ```Tap Here For Help ⛩️``` 
-  <a href="https://wa.me/2541100777535?text=Hello%20zamzack254%20sir...%20I%20need%20some%20help%20in%20kinflux_bot_God%20v2">
-    <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/diggilly/kinflux_bot_God/blob/main/Guru.jpg" />
+  <a href="https://wa.me/233268374753?text=Hello%20Abraham254%20sir...%20I%20need%20some%20help%20in%20Christain_BOT%20v2😅">
+    <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/abrahamdw882/kinflux_bot_God/blob/main/Guru.jpg" />
   
     Tap here for contact me on WhatsApp Messenger 🎐
     
-  <a href="My email: kinfluxdigital@gmail.com">
+  <a href="My email: abrahamdw882@gmail.com">
     <img align="left" alt="SIEGRIN | Gmail" width="26px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Gmail.svg" />
   
     My email Adress : kinfluxdigital@gmail.com 🎐
