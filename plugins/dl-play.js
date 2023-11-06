@@ -9,7 +9,7 @@ import axios from 'axios';
 const streamPipeline = promisify(pipeline);
 
 let handler = async (m, { conn, command, text, usedPrefix }) => {
-  if (!text) throw `Use example ${usedPrefix}${command} naruto blue bird`;
+  if (!text) throw `Use example ${usedPrefix}${command} how to read a bible`;
   await m.react(rwait);
 
   try {
