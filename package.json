@@ -1,5 +1,5 @@
 { 
-    "name": "kinflux bot",
+    "name": "AB CHRISTAIN bot",
     "version": "0.0.1",
     "description": "Customizable WhatsApp Bot",
     "main": "index.js",
@@ -25,16 +25,16 @@
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/diggilly/Kinflux_bot_god_v2",
+    "homepage": "https://github.com/abrahamdw882",
     "author": {
         "name": "kinflux digital"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/diggilly/Kinflux_bot_god_v2.git"
+        "url": "git+https://github.com/abrahamdw882/Kinflux_bot_god_v2.git"
     },
     "bugs": {
-        "url": "https://github.com/diggilly/Kinflux_bot_god_v2/issues"
+        "url": "https://github.com/abrahamdw882/Kinflux_bot_god_v2/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
