@@ -1,10 +1,10 @@
 {
-  "name": "whatsapp-bot (kinflux bot v2)",
+  "name": "whatsapp-bot (A Christain bot by Ab)",
   "description": " Whatsapp bot.",
   "keywords": [
     "whatsapp bot"
   ],
-  "repository": "https://github.com/diggilly/kinflux_bot_god_v2",
+  "repository": "https://github.com/abrahamdw882/kinflux_bot_god_v2",
   "stack": "container",
   "env": {
     "OPENAI_API_KEY": {
