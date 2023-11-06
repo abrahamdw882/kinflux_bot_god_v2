@@ -1,4 +1,4 @@
-[![-----------------------------------------------------](https://github.com/diggilly/kinflux_bot_God/blob/main/Guru.jpg)](#table-of-contents)
+[![-----------------------------------------------------](https://github.com/abrahamdw882/kinflux_bot_God/blob/main/Guru.jpg)](#table-of-contents)
 <p align="center">
     <img src="./AnyaPikaMedia/HomeScreen/Anyapic.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
@@ -9,17 +9,17 @@
 
 <h1 align="center">kinflux bot God v2 - MultiDevice</h1>
 <p align="center">
-  <a href="https://github.com/diggilly"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=kinflux+bot+God+v2+MultiDevice;The+stable+version+whatsApp+bot;Developed+by+kinflux~digital;Give+star+and+forks+this+Repo+🌟" alt="AnyaReadme">
+  <a href="https://github.com/abrahamdw882"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=kinflux+bot+God+v2+MultiDevice;The+stable+version+whatsApp+bot;Developed+by+ABRAHAM~DWAMENA;Give+star+and+forks+this+Repo+🌟" alt="AnyaReadme">
 </p>
 
 <p align="center">
- <a href="#"><img title="kinflux_bot_God" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+ <a href="#"><img title="AB_CHRISTAIN_BOT" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/diggilly"><img title="Author" src="https://img.shields.io/badge/AUTHOR-kinflux digital-green.svg?style=for-the-badge&logo=github"></a>
 
 ---------
-## kinflux-bot-God is a powerfull Multi Device whatsapp bot. ⚡️ Lightning-Fast Responses: 300 feutures and many more
+## AB-CHRISTAIN-BOT is a powerfull Multi Device whatsapp bot. ⚡️ 😇SPEED-Fast Responses: 300 feutures and many more
 
 
 
