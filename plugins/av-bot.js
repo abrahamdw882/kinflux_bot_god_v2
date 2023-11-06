@@ -9,7 +9,7 @@ m.reply( `Hello ${taguser} am a christain bot how can i help?  type /help `)
 conn.sendFile(m.chat, av, 'audio.mp3', null, m, true, { type: 'audioMessage', ptt: true })
 } 
 
-handler.customPrefix = /^(bot|kinflux bot)$/i
+handler.customPrefix = /^(bot|Ab Christain bot)$/i
 handler.command = new RegExp
 
 export default handler
