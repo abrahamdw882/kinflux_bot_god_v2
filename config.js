@@ -47,7 +47,7 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'kinflux bot god'
+global.botname = 'AB CHRISTAIN BOT'
 global.premium = 'true'
 global.packname = 'AB CHRISTAIN BOT' 
 global.author = 'ABRAHAM DWAMENA' 
@@ -59,7 +59,7 @@ global.fgpyp = ''
 global.fglog = 'https://raw.githubusercontent.com/abrahamdw882/kinflux-bot/main/Guru.jpg' 
 
 
-global.wait = '*⌛ _Christaiam bot loading..._*\n*▰▰▰▱▱▱▱▱*'
+global.wait = '*⌛ _Christaian bot loading..._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '👏'
