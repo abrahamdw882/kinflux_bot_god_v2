@@ -5,7 +5,7 @@ let mime = (q.msg || q).mimetype || ''
 if (!mime) throw '*Respond / reply to an image*'    
 let img = await q.download?.()
 let url = await uploadImage(img)    
-let docname = text ? text : m.pushName || 'KINFLUX bot'
+let docname = text ? text : m.pushName || 'A CHRISTAIN bot'
 conn.sendFile(m.chat, `http://api.lolhuman.xyz/api/convert/imgtopdf?apikey=${lolkeysapi}&img=${url}`, docname + '.pdf', '', m, false, { asDocument: true })
 }
 handler.command = /^topdf$/i
