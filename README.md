@@ -9,7 +9,7 @@
 
 <h1 align="center"> A Christain BOT - MultiDevice</h1>
 <p align="center">
-  <a href="https://github.com/abrahamdw882"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=kinflux+bot+God+v2+MultiDevice;The+stable+version+whatsApp+bot;Developed+by+ABRAHAM~DWAMENA;Give+star+and+forks+this+Repo+🌟" alt="AnyaReadme">
+  <a href="https://github.com/abrahamdw882"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Christain+bot+BY+AB+MultiDevice;The+stable+version+whatsApp+bot;Developed+by+ABRAHAM~DWAMENA;Give+star+and+forks+this+Repo+🌟" alt="AnyaReadme">
 </p>
 
 <p align="center">
