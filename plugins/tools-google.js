@@ -14,7 +14,7 @@ let handler = async (m, { conn, command, args }) => {
     }) => {
         return `*${title}*\n_${url}_\n_${description}_
 ╭───•✧✧•───╮
-GENERATED WITH LOVE BY 𝐊𝐈𝐍𝐅𝐋𝐔𝐗 𝐁𝐎𝐓
+GENERATED WITH LOVE BY  𝙏𝙃𝙀 𝘾𝙃𝙍𝙄𝙎𝙏𝘼𝙄𝙉 𝐁𝐎𝐓
 ╰───•✧✧•───╯`
     }).join('\n\n')
     try {
