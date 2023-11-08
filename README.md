@@ -24,7 +24,7 @@
 
 
 ```
-kinflux bot God v2
+abrahamdw882/kinflux bot God v2
 ```
 
 ---------
@@ -38,7 +38,7 @@ kinflux bot God v2
   <a href="My email: abrahamdw882@gmail.com">
     <img align="left" alt="SIEGRIN | Gmail" width="26px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Gmail.svg" />
   
-    My email Adress : kinfluxdigital@gmail.com 🎐
+    My email Adress : abrahamdw882@gmail.com 🎐
      
     
 
