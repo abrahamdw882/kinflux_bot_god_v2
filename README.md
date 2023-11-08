@@ -87,8 +87,8 @@ kinflux bot God v2
 
  Run the following commands to clone the repo (Use your fork)
  ```SH
-> git clone https://github.com/diggilly/kinflux_bot_god_v2
-> cd kinflux_bot_god_v2
+> git clone https://github.com/abrahamdw882/kinflux_bot_god_v2
+> cd abrahamdw882/kinflux_bot_god_v2
  ```
 
  Run this following command to install the dependencies 
@@ -115,8 +115,8 @@ SUPPORT GROUP: <a href="https://chat.whatsapp.com/EKeNBKlZPoICcHCJ227P61"><img a
 4. If you have problem, [`Tap Here`]([https://wa.me/233268374753?text=Hello%20*master%20ABRAHAM233*%20sir...%20I%20need%20some%20help%20in%20kinflux_bot_god%20v2...%20🥲](https://wa.me/233268374753?text=Hello%20Abraham254%20sir...%20I%20need%20some%20help%20in%20Christain_BOT%20v2)) for help
 
 ---------
-https://wa.me/254110377776?text=Hello%20*master%20Abraham254*%20sir
+https://wa.me/233268374753?text=Hello%20*master%20Abraham254*%20sir
 ## ```Thanks to ✨```
-* [`kinflux digital`](https://wa.me/233268374753?text=Hello%20*master%20Abraham254*%20sir..) - | ✅ For the Script stability
-* [`diggilly`](https://github.com/diggilly) - | ✅ For README.MD CODE
+* [`Abraham Dwamena`](https://wa.me/233268374753?text=Hello%20*master%20Abraham254*%20sir..) - | ✅ For the Script stability
+* [`AB-BOT DEV`](https://github.com/abrahamdw882) - | ✅ For README.MD CODE
 * [`AdirajShing`](https://github.com/adiwajshing/Baileys) - | ✅ For a huge library
