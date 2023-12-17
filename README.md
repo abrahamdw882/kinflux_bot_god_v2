@@ -51,7 +51,7 @@ abrahamdw882/kinflux bot God v2
 
 ## ```Scan the QR and upload guru.data.json to your fork(will recieve it on your bot number after scanning)```
 
-<a href='https://replit.com/@diggilly/Kinflux-bot-QR-CODE-GENERATOR?v=1' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://replit.com/@digildigil/Kinflux-bot-QR-CODE-GENERATOR?v=1' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
   
 
